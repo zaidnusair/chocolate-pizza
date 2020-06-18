@@ -1,0 +1,72 @@
+body {
+  width: 901px;
+  margin-right: auto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.logo {
+  float: left;
+}
+.header-right {
+  float: right;
+}
+
+.main-header {
+  height: 50px;
+}
+
+.beside-logo {
+  float: left;
+  margin-left: 5px;
+}
+.logo img {
+  float: left;
+}
+.beside-logo p {
+  margin-top: 9px;
+  margin-bottom: 0;
+  /* margin-left: 0; */
+}
+.beside-logo h3 {
+  margin: 0;
+  /* font-family: ; */
+}
+
+.hr {
+  background-image: url("../img/hr-img.png");
+  height: 20px;
+  background-repeat: repeat;
+}
+
+span {
+  float: right;
+}
+.shift-right::first-line {
+  text-indent: 1.5em;
+}
+
+.form {
+  position: absolute;
+  top: 1040px;
+  width: 85%;
+  font-size: 25px;
+}
+.right-form {
+  float: right;
+  width: 450px;
+  margin-right: 30px;
+}
+.left-form {
+  margin-left: 45px;
+  float: left;
+}
+.share {
+  float: right;
+  width: 100px;
+}
+
+.left-bottom img {
+  float: left;
+}
